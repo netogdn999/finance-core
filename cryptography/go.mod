@@ -1,4 +1,4 @@
-module github.com/facily-tech/go-core/cryptography
+module github.com/netogdn999/finance-core/cryptography
 
 go 1.17
 

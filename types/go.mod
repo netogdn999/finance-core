@@ -1,3 +1,3 @@
-module github.com/facily-tech/go-core/types
+module github.com/netogdn999/finance-core/types
 
 go 1.17

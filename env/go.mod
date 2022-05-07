@@ -1,4 +1,4 @@
-module github.com/facily-tech/go-core/env
+module github.com/netogdn999/finance-core/env
 
 go 1.17
 

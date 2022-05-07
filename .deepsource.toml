@@ -5,7 +5,7 @@ name = "go"
 enabled = true
 
   [analyzers.meta]
-  import_root = "github.com/facily-tech/go-core"
+  import_root = "github.com/netogdn999/finance-core"
 
 [[transformers]]
 name = "gofmt"

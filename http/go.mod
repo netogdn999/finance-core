@@ -1,11 +1,11 @@
-module github.com/facily-tech/go-core/http
+module github.com/netogdn999/finance-core/http
 
 go 1.17
 
 require (
-	github.com/facily-tech/go-core/log v0.1.0
-	github.com/facily-tech/go-core/telemetry v0.3.0
-	github.com/facily-tech/go-core/types v0.1.1
+	github.com/netogdn999/finance-core/log v0.1.0
+	github.com/netogdn999/finance-core/telemetry v0.3.0
+	github.com/netogdn999/finance-core/types v0.1.1
 	github.com/go-chi/chi v1.5.4
 	github.com/go-chi/chi/v5 v5.0.7
 	github.com/golang/mock v1.6.0

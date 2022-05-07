@@ -6,7 +6,7 @@
 2. Enter the newly created directory and execute: 
  
 ```sh
-$ go mod init github.com/facily-tech/go-core/MODULE-NAME
+$ go mod init github.com/netogdn999/finance-core/MODULE-NAME
 ```
 
 3. Put your module code inside the subdirectory you just created
@@ -22,7 +22,7 @@ $ git push --tags
 ## How to import modules
 
 ```sh
-go get github.com/facily-tech/go-core/MODULE-NAME
+go get github.com/netogdn999/finance-core/MODULE-NAME
 ```
 
 ## Lint

@@ -1,4 +1,4 @@
-module github.com/facily-tech/go-core/telemetry
+module github.com/netogdn999/finance-core/telemetry
 
 go 1.17
 

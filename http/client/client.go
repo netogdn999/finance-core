@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/facily-tech/go-core/telemetry"
+	"github.com/netogdn999/finance-core/telemetry"
 )
 
 // PrefixHTTP is the env prefix of Config environment variables.

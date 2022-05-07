@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/facily-tech/go-core/telemetry"
+	"github.com/netogdn999/finance-core/telemetry"
 	"go.uber.org/zap"
 )
 

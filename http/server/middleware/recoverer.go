@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"runtime/debug"
 
-	"github.com/facily-tech/go-core/log"
+	"github.com/netogdn999/finance-core/log"
 )
 
 const panicErrorRecovered string = "panic recovered on middleware recoverer"

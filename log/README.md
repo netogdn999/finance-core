@@ -4,7 +4,7 @@
 ## Installation
 
 ```go
-go get github.com/facily-tech/go-core/log
+go get github.com/netogdn999/finance-core/log
 ```
 
 ## Usage

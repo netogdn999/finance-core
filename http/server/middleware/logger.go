@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/facily-tech/go-core/log"
+	"github.com/netogdn999/finance-core/log"
 	"github.com/pkg/errors"
 )
 

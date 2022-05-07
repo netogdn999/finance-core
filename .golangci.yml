@@ -15,7 +15,7 @@ linters:
 linters-settings:
   wrapcheck:
     ignorePackageGlobs:
-      - github.com/facily-tech/go-core/*
+      - github.com/netogdn999/finance-core/*
   errcheck:
     check-type-assertions: true
     check-blank: true

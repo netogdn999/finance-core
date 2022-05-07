@@ -3,8 +3,8 @@ package log
 import (
 	"context"
 
-	"github.com/facily-tech/go-core/telemetry"
 	"github.com/go-chi/chi/v5/middleware"
+	"github.com/netogdn999/finance-core/telemetry"
 	"github.com/pkg/errors"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"

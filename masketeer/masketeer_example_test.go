@@ -3,8 +3,8 @@ package masketeer
 import (
 	"fmt"
 
-	"github.com/facily-tech/go-core/masketeer/email"
-	"github.com/facily-tech/go-core/masketeer/phone"
+	"github.com/netogdn999/finance-core/masketeer/email"
+	"github.com/netogdn999/finance-core/masketeer/phone"
 )
 
 func ExampleNew() {

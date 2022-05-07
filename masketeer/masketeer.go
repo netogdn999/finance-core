@@ -4,8 +4,8 @@ Package masketeer was made to help obscure sensible data.
 package masketeer
 
 import (
-	"github.com/facily-tech/go-core/masketeer/email"
-	"github.com/facily-tech/go-core/masketeer/phone"
+	"github.com/netogdn999/finance-core/masketeer/email"
+	"github.com/netogdn999/finance-core/masketeer/phone"
 )
 
 // IMasketeer is Masketeer interface to use when you wanna make a default setup on its methods.

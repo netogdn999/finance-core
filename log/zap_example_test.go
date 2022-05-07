@@ -3,7 +3,7 @@ package log
 import (
 	"context"
 
-	"github.com/facily-tech/go-core/telemetry"
+	"github.com/netogdn999/finance-core/telemetry"
 )
 
 func ExampleNewLoggerZap() {

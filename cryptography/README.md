@@ -11,5 +11,5 @@ To create a new encryption it is necessary to pass the key and the unique number
 ## Installation
 
 ```sh
-go get github.com/facily-tech/go-core/cryptography
+go get github.com/netogdn999/finance-core/cryptography
 ```

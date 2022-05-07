@@ -1,3 +1,3 @@
-module github.com/facily-tech/go-core/masketeer
+module github.com/netogdn999/finance-core/masketeer
 
 go 1.17

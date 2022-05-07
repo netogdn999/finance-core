@@ -13,8 +13,8 @@ import (
 	"syscall"
 	"time"
 
-	ilog "github.com/facily-tech/go-core/log"
-	"github.com/facily-tech/go-core/types"
+	ilog "github.com/netogdn999/finance-core/log"
+	"github.com/netogdn999/finance-core/types"
 )
 
 // PrefixConfig is the environment prefix ex: HOST_PORT will be added API_ as prefix.
